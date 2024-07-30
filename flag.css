@@ -1,0 +1,19 @@
+.circle{
+     position:absolute;
+     width:100px;
+     height:100px;
+     background-color:red;
+     border-radius:100px;
+     left:90px;
+     top:110px;
+
+
+     
+}
+.box{
+     width:300px;
+     height:170px;
+     background-color:green;
+     
+}
+     
